@@ -4,7 +4,7 @@
  <title>Max Goldhouse's Blog</title>
  <link href="https://dindinet.github.io/jekyll-site/blog/atom.xml" rel="self"/>
  <link href="https://dindinet.github.io/jekyll-site//blog"/>
- <updated>2016-06-22T16:11:27+00:00</updated>
+ <updated>2016-06-22T16:15:09+00:00</updated>
  <id>https://dindinet.github.io/jekyll-site/</id>
  <author>
    <name>max Goldhouse</name>
@@ -64,6 +64,7 @@ Doctor visits. Take UK Health card to desk give details and receive Spanish Heal
 &lt;form action=&quot;https://formspree.io/dklongley@gmail.com&quot; method=&quot;POST&quot;&gt;
     &lt;input type=&quot;text&quot; name=&quot;name&quot; /&gt;
     &lt;input type=&quot;email&quot; name=&quot;_replyto&quot; /&gt;
+    &lt;input type=&quot;input&quot; name=&quot;message&quot; /&gt;
     &lt;input type=&quot;submit&quot; value=&quot;Send&quot; /&gt;
 &lt;/form&gt;
 </content>
