@@ -4,7 +4,7 @@
  <title>Max Goldhouse's Blog</title>
  <link href="https://dindinet.github.io/jekyll-site/blog/atom.xml" rel="self"/>
  <link href="https://dindinet.github.io/jekyll-site//blog"/>
- <updated>2016-06-22T14:45:25+00:00</updated>
+ <updated>2016-06-22T14:50:36+00:00</updated>
  <id>https://dindinet.github.io/jekyll-site/</id>
  <author>
    <name>max Goldhouse</name>
@@ -17,7 +17,8 @@
    <link href="https://dindinet.github.io/jekyll-site/blog//blog/2016/06/22/our-home"/>
    <updated>2016-06-22T14:43:00+00:00</updated>
    <id>https://dindinet.github.io/jekyll-site/blog//blog/2016/06/22/our-home</id>
-   <content type="html">&lt;p&gt;We have a great home in the mountains just a short drive from the beach. Best of both worlds.&lt;/p&gt;
+   <content type="html">&lt;p&gt;We have a great home in the mountains just a short drive from the beach. Best of both worlds.
+&lt;img src=&quot;/forestryio/images/italianvillage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
