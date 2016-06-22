@@ -1,9 +1,9 @@
 ---
-title: Hank Quinlan, Horrible Cop, Launches Site
-date: '2014-04-30 00:00:00'
+title: Max Goldhouse - laid back European - launches Website and Blog
+date: '2016-06-22 15:15:00'
 categories: []
 layout: post
-slug: hank-quinlan-site-launched
+slug: maxgoldhouse-site
 tags: []
 
 ---
