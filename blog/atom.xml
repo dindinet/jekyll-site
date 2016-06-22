@@ -4,13 +4,22 @@
  <title>Max Goldhouse's Blog</title>
  <link href="https://dindinet.github.io/jekyll-site/blog/atom.xml" rel="self"/>
  <link href="https://dindinet.github.io/jekyll-site//blog"/>
- <updated>2016-06-22T15:13:39+00:00</updated>
+ <updated>2016-06-22T15:16:25+00:00</updated>
  <id>https://dindinet.github.io/jekyll-site/</id>
  <author>
    <name>max Goldhouse</name>
    <email>uk@maxgoldhouse.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Max Goldhouse - laid back European - launches Website and Blog</title>
+   <link href="https://dindinet.github.io/jekyll-site/blog//blog/2016/06/22/maxgoldhouse-site"/>
+   <updated>2016-06-22T15:15:00+00:00</updated>
+   <id>https://dindinet.github.io/jekyll-site/blog//blog/2016/06/22/maxgoldhouse-site</id>
+   <content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Our Life</title>
@@ -33,7 +42,7 @@
    <updated>2016-06-22T14:43:00+00:00</updated>
    <id>https://dindinet.github.io/jekyll-site/blog//blog/2016/06/22/our-home</id>
    <content type="html">&lt;p&gt;We have a great home in the mountains just a short drive from the beach. Best of both worlds.
-&lt;img src=&quot;/forestryio/images/italianvillage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/-umDDKZKR5sU/TzxMECk1w-I/AAAAAAAACNo/3TgaqC6j49Yl7CyJvGJcoFBNP_yIluOLgCCo/s636/casademoni.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
