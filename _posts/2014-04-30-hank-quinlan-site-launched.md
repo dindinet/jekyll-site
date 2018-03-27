@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /super/kali/fragelistic
 title: "Max Goldhouse, Laid back European, Launches Site"
 date: 2016-06-22
 ---
